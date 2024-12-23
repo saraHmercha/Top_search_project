@@ -1,0 +1,14 @@
+# Ignorer l'environnement virtuel
+venv/
+
+# Ignorer les fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer d'autres fichiers générés
+.DS_Store
+.idea/
